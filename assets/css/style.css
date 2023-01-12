@@ -95,10 +95,15 @@ a.nav-btn:hover {
   line-height: 24px;
   text-align: center;
   color: #ffffff !important;
-  background: #000022;
-  padding: 15px 24px !important;
+  background: #62c64e;
+  padding: 14px 24px !important;
   margin-left: 25px;
   border-radius: 16px;
+}
+
+a.nav-btn img {
+  padding-right: 6px;
+  margin-top: -5px;
 }
 
 .navbar-toggler {
