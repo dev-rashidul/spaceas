@@ -101,6 +101,16 @@ a.nav-btn:hover {
   border-radius: 16px;
 }
 
+a.whatsapp-btn {
+  background: #62c64e;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+
 a.nav-btn img {
   padding-right: 6px;
   margin-top: -5px;
